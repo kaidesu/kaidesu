@@ -2,8 +2,6 @@
     <img src="https://github.com/kaidesu/kaidesu/blob/master/error.gif?raw=true" alt="banner">
 </p>
 
----
-
 # How's it going?
 My name is _Shea_, but friends call me **Kai** 🦾
 
