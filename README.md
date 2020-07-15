@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-    <img src="/error.gif?raw=true">
-</div>
+![banner](error.gif?raw=true)
 
 ---
 
