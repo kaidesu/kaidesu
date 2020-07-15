@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="error.gif?raw=true">
+    <img src="/error.gif?raw=true">
 </div>
 
 ---
