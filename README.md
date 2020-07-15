@@ -1,4 +1,6 @@
-![banner](error.gif?raw=true)
+<p align="center">
+    <img src="https://github.com/kaidesu/kaidesu/blob/master/error.gif?raw=true" alt="banner">
+</p>
 
 ---
 
