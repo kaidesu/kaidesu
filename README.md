@@ -7,4 +7,4 @@ My name is _Shea_, but friends call me **Kai** 🦾
 
 I'm a web developer living in Seattle with 10 years of experience. I'm currently developing [Ghost](https://github.com/ghost-language/ghost), an object-oriented scripting language.
 
-You can find me on Twitter at [kai___desu](https://twitter.com/@kai___desu) 🐦
+You can find me on Twitter at [kai___desu](https://twitter.com/@kai___desu) 🐦 よろしく
