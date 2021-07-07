@@ -5,8 +5,6 @@
 # 01001000 01100101 01101100 01101100 01101111
 My name is _Shea_, but friends call me **Kai** 🦾
 
-I'm a web developer living in Seattle with 10 years of experience. I work over at [efelle creative](https://seattlewebdesign.com) developing [FusionCMS](https://github.com/fusioncms/fusioncms), a free and open source CMS built with **Laravel**, **Vue**, and **Tailwind**. We use it to power hundreds of websites.
-
-I'm currently learning **Go** while developing [Ghost](https://github.com/ghost-language/ghost), an object-oriented scripting language. I have some lofty goals for it, but taking it all one step at a time ✌️
+I'm a web developer living in Seattle with 10 years of experience. I'm currently developing [Ghost](https://github.com/ghost-language/ghost), an object-oriented scripting language.
 
 You can find me on Twitter at [kai___desu](https://twitter.com/@kai___desu) 🐦
